@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-## <img src = "https://media.giphy.com/media/THXLeSZQK9yOVNa1Iy/giphy.gif" width = "45"> Github Stats
+## <img src = "https://media.giphy.com/media/THXLeSZQK9yOVNa1Iy/giphy.gif" width = "35"> Github Stats
 <span>
 <a href="https://github.com/Algeo3603">
 <img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=Algeo3603&layout=compact&langs_count=6&theme=github_dark&border_color=404040" alt="Algeo3603 Github Top Languages" />
@@ -20,7 +20,7 @@
 </span>
 
 
-## <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNlNDJsY3VlMzN4cmN5ZjVrMzZ2aGZucWNhMWszN3k0Y3JqZDdvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnkMcHgNIMW4Yfmjxr/giphy.gif" width = "45"> Coding Profiles
+## <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNlNDJsY3VlMzN4cmN5ZjVrMzZ2aGZucWNhMWszN3k0Y3JqZDdvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnkMcHgNIMW4Yfmjxr/giphy.gif" width = "40"> Coding Profiles
 <span>
 <a href="https://codeforces.com/profile/Algeo3603">
 <img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Algeo3603&theme=github_dark&force_username=true&border_color=404040" alt="Algeo3603 Codeforces Stats"/>
@@ -30,4 +30,4 @@
 </a>
 </span>
 
-## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "35"> Technologies Worked With
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30"> Technologies Worked With
