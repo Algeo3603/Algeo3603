@@ -7,7 +7,19 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Algeo3603&label=Profile%20views&color=008080&style=for-the-badge&logo=eye" alt="Algeo3603"/> </p>
 
 ## <img src = "https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width = "50"> Find Me Here 
+<a href="https://www.linkedin.com/in/alangeorge3603/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
 ## <img src = "https://media.giphy.com/media/THXLeSZQK9yOVNa1Iy/giphy.gif" width = "45"> Github Stats
+<span>
+<a href="https://github.com/Algeo3603">
+<img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=Algeo3603&layout=compact&langs_count=6&theme=github_dark&border_color=404040" alt="Algeo3603 Github Top Languages" />
+<img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Algeo3603&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Algeo3603 Github Stats" />
+</a>
+</span>
+
+
 ## <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTNlNDJsY3VlMzN4cmN5ZjVrMzZ2aGZucWNhMWszN3k0Y3JqZDdvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YnkMcHgNIMW4Yfmjxr/giphy.gif" width = "45"> Coding Profiles
 <span>
 <a href="https://codeforces.com/profile/Algeo3603">
