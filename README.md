@@ -16,8 +16,8 @@
 <a href="https://github.com/Algeo3603">
 <!-- <img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=Algeo3603&layout=compact&langs_count=6&theme=github_dark&border_color=404040" alt="Algeo3603 Github Top Languages" /> -->
 <!-- <img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Algeo3603&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Algeo3603 Github Stats" /> -->
-<img src="https://github-readme-stats.vercel.app/api?username=Algeo3603&show_icons=true&theme=merko" alt="Algeo3603 Github Stats"/>
-<img height="173" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Algeo3603&layout=compact&theme=dark" alt="Algeo3603 Github Top Languages"/>
+<img src="https://github-readme-stats-algeo.vercel.app/api?username=Algeo3603&show_icons=true&theme=merko" alt="Algeo3603 Github Stats"/>
+<img height="173" src="https://github-readme-stats-algeo.vercel.app/api/top-langs/?username=Algeo3603&layout=compact&theme=dark" alt="Algeo3603 Github Top Languages"/>
 </a>
 </span>
 
